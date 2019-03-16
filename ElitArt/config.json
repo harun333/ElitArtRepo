@@ -1,0 +1,22 @@
+{
+
+  "ConnectionStrings": {
+    "EliteConnectionString": "server=DESKTOP-31BVKB4;Database=EliteDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "a;lkjasdf;lkajsd;flkjas ;dflkja sd",
+    "Issuer": "localhost",
+    "Audience": "user"
+  }
+
+  //"Colors": {
+  //  "Favorite": "blue"
+  //}
+
+}
